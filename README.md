@@ -1,5 +1,5 @@
 # k-say
-Wordpress Plugin that queries chatGPT with a specific question generated from user input.
+Wordpress Plugin that queries chatGPT with a specific question generated from user input. It defaults to three text fields and an input. Add your own query for the AI to answer!
 Your chatGPT API key should be set within wp-config.php. 
 
 ChatGPT can walk you through the steps of adding this plugin to your wordpress.
