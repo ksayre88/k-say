@@ -4,7 +4,7 @@ Plugin Name: K-Say
 Description: Allows users to input text, sends a query to the ChatGPT API using the gpt-3.5-turbo-1106 model, and formats the response in a stylish way.
 Version: 1.0
 Author: Shawn Clark
-Author URI: https://linuxlawyer.com/wordpress-plugins/
+Author URI: https://linuxlawyer.com/
 License: GPLv2 or later
 Text Domain: linuxlawyer
 */
